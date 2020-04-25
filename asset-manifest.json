@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pe-viewer/static/css/main.d1b05096.chunk.css",
+    "main.js": "/pe-viewer/static/js/main.eb2461fa.chunk.js",
+    "main.js.map": "/pe-viewer/static/js/main.eb2461fa.chunk.js.map",
+    "runtime-main.js": "/pe-viewer/static/js/runtime-main.b57e289d.js",
+    "runtime-main.js.map": "/pe-viewer/static/js/runtime-main.b57e289d.js.map",
+    "static/js/2.d860308c.chunk.js": "/pe-viewer/static/js/2.d860308c.chunk.js",
+    "static/js/2.d860308c.chunk.js.map": "/pe-viewer/static/js/2.d860308c.chunk.js.map",
+    "static/js/3.9db275eb.chunk.js": "/pe-viewer/static/js/3.9db275eb.chunk.js",
+    "b4290709bbb5b90bebb4.module.wasm": "/pe-viewer/b4290709bbb5b90bebb4.module.wasm",
+    "static/js/3.9db275eb.chunk.js.map": "/pe-viewer/static/js/3.9db275eb.chunk.js.map",
+    "index.html": "/pe-viewer/index.html",
+    "precache-manifest.6377896a6f9a323fd882c47dd9caf41c.js": "/pe-viewer/precache-manifest.6377896a6f9a323fd882c47dd9caf41c.js",
+    "service-worker.js": "/pe-viewer/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/pe-viewer/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.d860308c.chunk.js.LICENSE.txt": "/pe-viewer/static/js/2.d860308c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b57e289d.js",
+    "static/js/2.d860308c.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.eb2461fa.chunk.js"
+  ]
+}
